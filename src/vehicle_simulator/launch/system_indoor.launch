@@ -1,6 +1,6 @@
 <launch>
 
-  <arg name="world_name" default="indoor"/>
+  <arg name="world_name" default="floorplan_1"/>
   <arg name="vehicleHeight" default="0.75"/>
   <arg name="cameraOffsetZ" default="0"/>
   <arg name="vehicleX" default="0"/>
